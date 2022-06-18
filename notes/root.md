@@ -2,11 +2,25 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jermey's Dendron
 desc: "Jeremy's Drendron"
-updated: 1655572832596
+updated: 1655589134974
 created: 1655335546902
 ---
 
-# Welcome to Jeremy's Dendron
+## Welcome to Jeremy's Dendron
+
+## Tasks Inbox ![[tasks.inbox]]
+
+## [[Essays|essays]] ![[essays#current:#completed]]
+
+---
+
+## Linking Examples
+
+- Basic Link | [[test-area]]
+- Preview Link | ![[daily]]
+- Limited Area | ![[daily#intro:#exit]]
+
+---
 
 ## Dendron Help
 
@@ -15,15 +29,3 @@ created: 1655335546902
 - [Home Page](https://wiki.dendron.so/)
 - [Github](https://link.dendron.so/6b24)
 - [Developer Docs](https://docs.dendron.so/)
-
-## Goals
-
-- [ ] Get under public git revision
-  - `.gitignore *.private*`
-- [ ] Get under private git revision
-  - 2nd repo includes _.private_
-- [ ] Get public git repo online as webpage
-
-## Useful Notes
-
-[[Dendron Notes|software.dendron]]
