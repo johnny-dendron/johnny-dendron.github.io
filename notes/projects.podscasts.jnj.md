@@ -2,7 +2,7 @@
 id: 6lydc2ztpunfb9e1e2r91to
 title: Jnj
 desc: ""
-updated: 1655651750832
+updated: 1655676353433
 created: 1655650625098
 ---
 
@@ -18,8 +18,8 @@ Get both of us on the Dendron, use it as the podcast.
 
 ### Startup
 
-- [ ] Get VScode for Jesse
-- [ ] Get Dendron for Jesse
+- [x] Get VScode for Jesse
+- [x] Get Dendron for Jesse
 - [ ] Get GitLab for Jesse
 
 ## Tags
