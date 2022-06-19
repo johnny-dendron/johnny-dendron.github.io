@@ -1,7 +1,7 @@
 ---
 id: omtiybs3vhszvv44eq8i53r
 title: Chapo Trap House
-desc: ""
+desc: ''
 updated: 1655651044918
 created: 1655581158470
 ---

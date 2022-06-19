@@ -6,10 +6,11 @@ schemas:
     parent: root
     children:
       - pattern: "*"
-        template:
-          id: templates.basic
-          type: note
         children:
+          - pattern: "*"
+            template:
+              id: templates.basic-movie
+              type: note
           - pattern: red-letter-media
             children:
               - pattern: star-wars-review

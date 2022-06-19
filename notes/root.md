@@ -1,19 +1,20 @@
 ---
 id: wihur1ez0bdn2td7eyuzehg
 title: Jermey's Dendron
-desc: "Jeremy's Drendron"
-updated: 1655665493575
+desc: Jeremy's Drendron
+updated: 1655668563109
 created: 1655335546902
 ---
 
 ## Welcome to Jeremy's Dendron
 
-Where I keep everything.
+Where I keep everything. :smile:
 
 ---
 
 ## Todo
 
+- [ ] Schema and Template for movies.great-ones
 - [ ] All todo's should have a #Inbox Tag
 - [ ] Involve Schema and Templates
 
@@ -21,7 +22,7 @@ Where I keep everything.
 
 ---
 
-## [[Essays|essays]] ![[essays#current:#completed]]
+## [[Essays|projects.essays]] ![[projects.essays#current:#completed]]
 
 ---
 
@@ -59,6 +60,6 @@ lookup:
 note:
 selectionMode: link`
 
-## [[Hello|test-area.asdfw]]
+## [[Hello|testing.asdfw]]
 
-## [[some-lady|test-area.some.lady]]
+## [[some-lady|software.testing.some.lady]]

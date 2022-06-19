@@ -8,8 +8,8 @@ created: 1655335911581
 
 ## Current
 
-- [[Hunter 01|essays.in-progress.thinking-about-hunter]]
-- [[Where are We Now|essays.in-progress.where-are-we-now]]
+- [[Hunter 01|projects.essays.in-progress.thinking-about-hunter]]
+- [[Where are We Now|projects.essays.in-progress.where-are-we-now]]
 
 ## Completed
 
