@@ -1,15 +1,11 @@
 ---
 id: vbu6hl7t8an3j3nwe5k52ed
 title: Part 1
-desc: ''
-updated: 1655432335597
+desc: ""
+updated: 1655644511286
 created: 1655337273851
 ---
 
-## Hello
+#Alex-Jones
 
-this is the news
-
-This should
-
-1.
+[[YouTube Link|https://youtu.be/5pu6uDv6ofo]]

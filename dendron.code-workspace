@@ -7,6 +7,7 @@
   ],
   "settings": {
     "dendron.rootDir": ".",
+    // "dendron.markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
     "files.autoSave": "onFocusChange",
     "pasteImage.path": "${currentFileDir}/assets/images",
     "pasteImage.prefix": "/",
@@ -22,7 +23,7 @@
     "markdownShortcuts.icons.italic": false,
     "markdownShortcuts.icons.citations": false,
     "markdownShortcuts.icons.strikethrough": false,
-    "cSpell.words": ["Dendron"]
+    "cSpell.words": ["Dendron", "Depositiontally"]
   },
   "extensions": {
     "recommendations": [
