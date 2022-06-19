@@ -1,7 +1,7 @@
 ---
 id: vbu6hl7t8an3j3nwe5k52ed
 title: Part 1
-desc: ""
+desc: ''
 updated: 1655644511286
 created: 1655337273851
 ---

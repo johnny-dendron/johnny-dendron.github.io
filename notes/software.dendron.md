@@ -2,11 +2,13 @@
 id: 047j0e5oome8iqqpzxn9fah
 title: Dendron
 desc: ""
-updated: 1655584317623
+updated: 1655660554985
 created: 1655429644282
 ---
 
-## Dendron
+## Bio
+
+Dendron is a vscode plugin for managing huge numbers of markdown notes.
 
 ### Tasks
 
@@ -47,3 +49,7 @@ created: 1655429644282
 
 - `control + l` & type
   > `essays.*.hunter`
+
+## Tags
+
+#Software, #Dendron

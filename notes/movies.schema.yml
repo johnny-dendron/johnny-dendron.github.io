@@ -1,0 +1,16 @@
+version: 1
+imports: []
+schemas:
+  - id: movies
+    title: movies
+    parent: root
+    children:
+      - pattern: "*"
+        template:
+          id: templates.basic
+          type: note
+        children:
+          - pattern: red-letter-media
+            children:
+              - pattern: star-wars-review
+          - pattern: thought-slime

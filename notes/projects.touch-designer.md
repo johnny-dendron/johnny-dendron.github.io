@@ -12,4 +12,4 @@ created: 1655574047060
 
 ### [[projects.touch-designer.screenwriter]]
 
-### [[Absolute Beginners|projects.youtube.series.touch-designer.absolute-beginners]]
+### [[Absolute Beginners|projects.youtube.my-channel.series.touch-designer.absolute-beginners]]

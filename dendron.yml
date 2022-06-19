@@ -8,7 +8,7 @@ commands:
       selectionMode: link
       confirmVaultOnCreate: true
       vaultSelectionModeOnCreate: smart
-      leaveTrace: false
+      leaveTrace: true
       bubbleUpCreateNew: true
       fuzzThreshold: 0.2
   randomNote: {}

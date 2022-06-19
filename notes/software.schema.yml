@@ -1,0 +1,17 @@
+version: 1
+imports: []
+schemas:
+  - id: software
+    # Will show in command pallet
+    title: software
+    # Will show in command pallet
+    parent: root
+    children:
+      - pattern: "*"
+        # which children direct ( "*" === all direct children)
+        template:
+          id: templates.basic-software
+          type: note
+        children:
+          - pattern: "*"
+        # which children direct of direct children ( "*" === all direct children)

@@ -1,8 +1,8 @@
 ---
 id: 0txbd9x4ofs3guegjhb4tra
-title: Hunter01
-desc: ""
-updated: 1655572748058
+title: Thinking about Hunter
+desc: ''
+updated: 1655661078049
 created: 1655349386308
 ---
 
@@ -15,3 +15,8 @@ I used to have many, many books. I don't anymore, just a few. But I used to, and
 This is literally the worst cover of any printing of the book. I think I picked it up for about ten dollars. I could not tell you why or when. I couldn't tell you if I read this before I read anything by Vonnegut.
 
 ![](/assets/images/2022-06-15-22-38-07.png)
+
+## Tags:
+
+- #Essays
+- #HST

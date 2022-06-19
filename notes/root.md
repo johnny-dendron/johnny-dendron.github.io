@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jermey's Dendron
 desc: "Jeremy's Drendron"
-updated: 1655644113442
+updated: 1655665493575
 created: 1655335546902
 ---
 
@@ -12,7 +12,12 @@ Where I keep everything.
 
 ---
 
-## [[Tasks Inbox|tasks.inbox]] ![[tasks.inbox]]
+## Todo
+
+- [ ] All todo's should have a #Inbox Tag
+- [ ] Involve Schema and Templates
+
+## [[Templates|templates]]
 
 ---
 
@@ -33,15 +38,15 @@ Where I keep everything.
 
 ---
 
-## ![[Dendron Help|software.dendron-help]]
+## ![[Dendron Help|software.dendron.getting-help]]
 
 ## Ideas
 
 - Random Dendron notes on root.
 
-[[test-area.govenors-house]]
+## dendron.yml:
 
-Making a change.
+- Making a change.
 
 `commands:
 lookup:

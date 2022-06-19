@@ -23,7 +23,7 @@
     "markdownShortcuts.icons.italic": false,
     "markdownShortcuts.icons.citations": false,
     "markdownShortcuts.icons.strikethrough": false,
-    "cSpell.words": ["Dendron", "Depositiontally"]
+    "cSpell.words": ["Dendron", "Depositiontally", "Emerick", "Keymap"]
   },
   "extensions": {
     "recommendations": [

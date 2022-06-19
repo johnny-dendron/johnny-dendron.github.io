@@ -1,9 +1,9 @@
 ---
-id: 1rpxnx65pfuy3cqeamgumdx
-title: Dendron Help
+id: ouc7371njyw3ynd16b6n8te
+title: Getting Help
 desc: ""
-updated: 1655590994362
-created: 1655590977244
+updated: 1655651210799
+created: 1655651209202
 ---
 
 - [Getting Started Guide](https://link.dendron.so/6b25)

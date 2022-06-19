@@ -1,0 +1,20 @@
+version: 1
+imports: []
+schemas:
+  - id: politics
+    title: politics
+    parent: root
+    children:
+      - pattern: conservative
+        children:
+          - pattern: extremists
+            children:
+              - pattern: characters
+                template:
+                  id: templates.conservative-extremists
+                  type: note
+                children:
+                  - pattern: "*"
+                    template:
+                      id: templates.conservative-extremists
+                      type: note

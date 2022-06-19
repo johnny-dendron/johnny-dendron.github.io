@@ -5,3 +5,4 @@ schemas:
     children: []
     title: root
     parent: root
+    template: templates.has-tags
