@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1655682347377
+updated: 1655745550784
 created: 1655335546902
 ---
 
@@ -20,7 +20,19 @@ Where I keep everything. :smile:
 - [ ] All todo's should have a #Inbox Tag
 - [ ] Involve Schema and Templates
 
-## [[Templates|templates]]
+---
+
+## To Sort
+
+#Sort
+
+Things that backlink to the sort tag should be sorted.
+
+---
+
+## Templates
+
+Templates are stored at [[templates]]
 
 ---
 

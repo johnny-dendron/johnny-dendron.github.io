@@ -5,7 +5,7 @@ dev:
 commands:
   lookup:
     note:
-      selectionMode: link
+      selectionMode: extract
       confirmVaultOnCreate: true
       vaultSelectionModeOnCreate: smart
       leaveTrace: true
@@ -59,7 +59,7 @@ workspace:
     createTaskSelectionType: selection2link
   graph:
     zoomSpeed: 1
-    createStub: false
+    createStub: true
   enableAutoCreateOnDefinition: true
   enableHandlebarTemplates: false
   enableXVaultWikiLink: false

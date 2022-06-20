@@ -23,7 +23,14 @@
     "markdownShortcuts.icons.italic": false,
     "markdownShortcuts.icons.citations": false,
     "markdownShortcuts.icons.strikethrough": false,
-    "cSpell.words": ["Dendron", "Depositiontally", "Emerick", "Keymap"]
+    "cSpell.words": [
+      "backlink",
+      "Dendron",
+      "Depositiontally",
+      "Emerick",
+      "Keymap",
+      "Quicktime"
+    ]
   },
   "extensions": {
     "recommendations": [
