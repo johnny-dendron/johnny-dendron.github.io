@@ -2,7 +2,7 @@
 id: oy0wsu10e4q3t3va83yqd5s
 title: Wanted
 desc: ""
-updated: 1655655930510
+updated: 1655734097206
 created: 1655651289807
 ---
 
@@ -12,7 +12,7 @@ created: 1655651289807
 
 ## Scroll Sync
 
-- Something match scroll with markdown preview
+- Something to match editing scrolling with markdown preview scrolling.
 
 ## Format Code properly
 
