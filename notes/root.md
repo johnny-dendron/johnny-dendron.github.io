@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1655768162662
+updated: 1655780393462
 created: 1655335546902
 ---
 
@@ -26,7 +26,7 @@ Where I keep everything. :smile:
 
 #Sort
 
-Things that backlink to the sort tag should be sorted.
+![[tags.sort]]
 
 ---
 
@@ -45,7 +45,7 @@ Templates are stored at [[templates]]
 | function      | combo                                    |
 | ------------- | ---------------------------------------- | ----------------------- |
 | go to sibling | **control + shift + ]**                  | **control + shift + [** |
-| go down       | **control + shift + :arrow_down_small:** |
+| go down       | **control + shift + :arrow_down_small:** |                         |
 
 ---
 
