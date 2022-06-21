@@ -1,7 +1,7 @@
 ---
 id: ytlcy7boshry9gmkevmg4px
-title: Info Chop
-desc: ""
+title: Infochop
+desc: ''
 updated: 1655751038814
 created: 1655750434577
 ---

@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1655745550784
+updated: 1655768162662
 created: 1655335546902
 ---
 
@@ -73,7 +73,3 @@ commands:
 lookup:
 note:
 selectionMode: link`
-
-## [[Hello|testing.asdfw]]
-
-## [[some-lady|software.testing.some.lady]]
