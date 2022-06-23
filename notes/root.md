@@ -2,9 +2,11 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1655780393462
+updated: 1655943365006
 created: 1655335546902
 ---
+
+![](/assets/images/2022-06-22-19-16-01.png)
 
 ## Hi Jesse
 
