@@ -2,7 +2,7 @@
 id: x20mq24ietwpe41y4q07xvm
 title: Wanted
 desc: ""
-updated: 1655958319886
+updated: 1656021352217
 created: 1655944593961
 ---
 
@@ -265,7 +265,7 @@ some prose
 
 ```mermaid
   flowchart RL
-  subgraph springfield`
+  subgraph springfield``
   subgraph simpsons
     subgraph kids
       homer-->bart
