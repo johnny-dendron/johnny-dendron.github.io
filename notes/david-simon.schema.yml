@@ -1,0 +1,7 @@
+version: 1
+imports: []
+schemas:
+  - id: david-simon
+    children: []
+    title: david-simon
+    parent: root
