@@ -1,9 +1,9 @@
 ---
-id: kjcgvtcgicujqhbb6o0mh95
-title: Or
+id: kn5pahktr40qeugte0dg7r6
+title: Wa
 desc: A State In The United States
-updated: 1656259144687
-created: 1656258898893
+updated: 1656261477024
+created: 1656261408680
 ---
 
 ## Wiki Image
@@ -36,8 +36,8 @@ created: 1656258898893
 
 #### **Representatives**:
 
-| Office                        | Name                                                        | Party                    | Assumed Office  | Term Ends       |
-| ----------------------------- | ----------------------------------------------------------- | ------------------------ | --------------- | --------------- |
+| Office                        | Name                                                                  | Party                    | Assumed Office  | Term Ends       |
+| ----------------------------- | --------------------------------------------------------------------- | ------------------------ | --------------- | --------------- |
 | U.S. House Alabama District 1 | [[world.countries.us.states.al.politics.politicians.reps.jerry-carl]] | #Republican or #Democrat | January 3, 2021 | January 3, 2023 |
 
 ---

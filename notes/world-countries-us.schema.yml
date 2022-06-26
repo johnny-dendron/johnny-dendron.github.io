@@ -1,0 +1,36 @@
+version: 1
+imports: []
+schemas:
+  - id: world
+    title: The Whole Wide World
+    parent: root
+    children:
+      - pattern: countries
+        title: Country Code
+        children:
+          - pattern: us
+            children:
+              - pattern: states
+                title: US State
+                children:
+                  - pattern: "[a-z][a-z]"
+                    template:
+                      id: templates.us-state
+                      type: note
+                    children:
+                      - pattern: "politics"
+                        children:
+                          - pattern: "politicians"
+                            children:
+                              - pattern: "reps"
+                                children:
+                                  - pattern: "*"
+                                    template:
+                                      id: templates.us-representative
+                                      type: note
+                              - pattern: "senators"
+                                children:
+                                  - pattern: "*"
+                                    template:
+                                      id: templates.us-senator
+                                      type: note

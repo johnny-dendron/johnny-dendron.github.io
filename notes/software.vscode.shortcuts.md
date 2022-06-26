@@ -2,7 +2,7 @@
 id: wx7c6rtanwd6bndrcris1kw
 title: Shortcuts
 desc: Keyboard Shortcuts for VScode
-updated: 1656260491545
+updated: 1656280262392
 created: 1655727216829
 ---
 
@@ -37,8 +37,8 @@ If you use _shift + control/command + p_ to find a command you can click the gea
 
 ## Dendron
 
-|                 |                                        |     |
-| --------------- | -------------------------------------- | --- |
+|                 |                                        |
+| --------------- | -------------------------------------- |
 | ctrl+shift+c    | command dendron.copyNoteLink           |
 | ctrl+shift+r    | command dendron.copyNoteRef            |
 | ctrl+shift+i    | command dendron.createDailyJournalNote |
