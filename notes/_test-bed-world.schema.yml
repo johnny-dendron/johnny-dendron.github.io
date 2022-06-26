@@ -11,4 +11,4 @@ schemas:
             children:
               - pattern: "states"
                 children:
-                  -pattern: "[A-Z][A-Z]"
+
