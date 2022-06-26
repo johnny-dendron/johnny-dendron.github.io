@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "bungcip.better-toml",
+    "streetsidesoftware.code-spell-checker",
+    "dracula-theme.theme-dracula",
+    "sleistner.vscode-fileutils",
+    "oderwat.indent-rainbow",
+    "github.github-vscode-theme",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-pack",
+    "bierner.markdown-emoji",
+    "bierner.markdown-mermaid",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "redhat.vscode-yaml",
+    "ms-vscode-remote.remote-wsl"
+  ]
+}

@@ -43,7 +43,11 @@
       "dendron.dendron",
       "dendron.dendron-paste-image",
       "dendron.dendron-markdown-shortcuts",
-      "redhat.vscode-yaml"
+      "esbenp.prettier-vscode",
+      "ms-python.vscode-pylance",
+      "ms-python.python",
+      "redhat.vscode-yaml",
+      "ms-vscode-remote.remote-wsl"
     ],
     "unwantedRecommendations": [
       "dendron.dendron-markdown-links",
