@@ -1,19 +1,26 @@
 {
   "recommendations": [
-    "bungcip.better-toml",
+    "github.github-vscode-theme",
     "streetsidesoftware.code-spell-checker",
+    "bungcip.better-toml",
+    "anseki.vscode-color",
+    "dendron.dendron-markdown-preview-enhanced",
+    "dendron.dendron-markdown-shortcuts",
+    "dendron.dendron-paste-image",
     "dracula-theme.theme-dracula",
+    "perkovec.emoji",
     "sleistner.vscode-fileutils",
     "oderwat.indent-rainbow",
-    "github.github-vscode-theme",
     "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
     "ms-vsliveshare.vsliveshare-pack",
     "bierner.markdown-emoji",
     "bierner.markdown-mermaid",
     "esbenp.prettier-vscode",
     "ms-python.vscode-pylance",
     "ms-python.python",
-    "redhat.vscode-yaml",
-    "ms-vscode-remote.remote-wsl"
+    "ms-vscode-remote.remote-wsl",
+    "rust-lang.rust-analyzer",
+    "redhat.vscode-yaml"
   ]
 }
