@@ -1,9 +1,9 @@
 ---
-id: hbll0b7vx6r4kwshgkxa5no
-title: Us State
+id: kjcgvtcgicujqhbb6o0mh95
+title: Or
 desc: A State In The United States
-updated: 1656258635690
-created: 1656253264449
+updated: 1656259144687
+created: 1656258898893
 ---
 
 ## Wiki Image

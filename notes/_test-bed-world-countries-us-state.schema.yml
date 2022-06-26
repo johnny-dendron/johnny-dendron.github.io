@@ -1,0 +1,22 @@
+version: 1
+imports: []
+schemas:
+  - id: _test-bed
+    title: _test-bed
+    parent: root
+    children:
+      - pattern: world
+        title: The World
+        children:
+          - pattern: countries
+            title: Country Code
+            children:
+              - pattern: us
+                children:
+                  - pattern: states
+                    title: US State
+                    children:
+                      - pattern: "[a-z][a-z]"
+                        template:
+                          id: templates.us-state
+                          type: note
