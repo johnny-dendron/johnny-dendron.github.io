@@ -2,7 +2,7 @@
 id: wx7c6rtanwd6bndrcris1kw
 title: Shortcuts
 desc: Keyboard Shortcuts for VScode
-updated: 1656195726395
+updated: 1656260491545
 created: 1655727216829
 ---
 

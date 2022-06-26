@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1656250745959
+updated: 1656260658671
 created: 1655335546902
 ---
 
@@ -70,9 +70,13 @@ created: 1655335546902
 |     | Totals:            | 9                    | 12            | 13          | 5             | 4                       |        |
 <!-- prettier-ignore-end -->
 
-## Todo
+## Shortcuts
 
----
+![[Shortcuts|software.vscode.shortcuts]]
+
+## Settings
+
+![[Settings Backups: June 22 2022|software.vscode.settings.backup.6.26.22]]
 
 ## To Sort
 
