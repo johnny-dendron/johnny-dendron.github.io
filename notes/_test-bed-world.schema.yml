@@ -1,0 +1,14 @@
+version: 1
+imports: []
+schemas:
+  - id: _test-bed
+    title: _test-bed
+    parent: root
+    children:
+      - pattern: world
+        children:
+          - pattern: "us"
+            children:
+              - pattern: "states"
+                children:
+                  -pattern: "[A-Z][A-Z]"

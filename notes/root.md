@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1656246128591
+updated: 1656250745959
 created: 1655335546902
 ---
 
@@ -12,9 +12,17 @@ created: 1655335546902
 
 ## Goals
 
+- [x] Prettier Table Fix for Abortion
+- [ ] State Template
 - [ ] Get date time entry down.
 - [ ] Write a Style Guide
+- [ ] Pre Publish Organization
 - [ ] Publish?
+- [ ] Schema and Template for movies.great-ones
+- [ ] All todo's should have a #Inbox Tag
+- [ ] Involve Schema and Templates
+- [ ] Sketch Dendron for Everyone
+- [ ] Schema and Template for States and Senators and Governors
 
 ## Daily's
 
@@ -33,9 +41,11 @@ created: 1655335546902
 
 ---
 
+<!-- prettier-ignore-start -->
+
 |     | State              |                      |               |             |               |                         | totals |
 | --- | ------------------ | -------------------- | ------------- | ----------- | ------------- | ----------------------- | ------ |
-| 1   | <code>[[AL         | world.us.al]]</code> | #PreRoeBan    |             | #NearTotalBan | #StateConBarsProtection | 3      |
+| 1   | [[world.us.states.al]] | #PreRoeBan    |             || #NearTotalBan | #StateConBarsProtection | 3      |
 | 2   | **Arizona**        | #PreRoeBan           |               |             |               |                         | 2      |
 | 3   | **Arkansas**       | #PreRoeBan           |               | #TriggerBan | #NearTotalBan |                         | 3      |
 | 4   | **Georgia**        |                      | #SixWeekBan   |             |               |                         | 1      |
@@ -58,20 +68,9 @@ created: 1655335546902
 | 21  | **Wisconsin**      | #PreRoeBan           |               |             |               |                         | 1      |
 | 22  | **Wyoming**        |                      |               | #TriggerBan |               |                         | 1      |
 |     | Totals:            | 9                    | 12            | 13          | 5             | 4                       |        |
-
-# Hi Jesse
-
-## Welcome to Jeremy's Dendron
-
-Where I keep everything. 🃏
-
----
+<!-- prettier-ignore-end -->
 
 ## Todo
-
-- [ ] Schema and Template for movies.great-ones
-- [ ] All todo's should have a #Inbox Tag
-- [ ] Involve Schema and Templates
 
 ---
 
@@ -81,48 +80,8 @@ Where I keep everything. 🃏
 
 ![[tags.sort]]
 
----
-
 ## Templates
 
 Templates are stored at [[templates]]
 
----
-
-## [[Essays|projects.essays]] ![[projects.essays#current:#completed]]
-
----
-
-## Dendron Navigation Keys
-
-| function      | combo                                    |
-| ------------- | ---------------------------------------- | ----------------------- |
-| go to sibling | **control + shift + ]**                  | **control + shift + [** |
-| go down       | **control + shift + :arrow_down_small:** |                         |
-
----
-
-## [[Linking-Examples|software.dendron.linking-examples]] ![[software.dendron.linking-examples]]
-
----
-
 ## ![[Dendron Help|software.dendron.getting-help]]
-
-## Ideas
-
-- Random Dendron notes on root.
-
-## dendron.yml:
-
-- Making a change.
-
-`commands:
-lookup:
-note:
-selectionMode: extract
-to
-
-commands:
-lookup:
-note:
-selectionMode: link`
