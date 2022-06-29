@@ -7,5 +7,6 @@ pods/service-connections
 *.private
 private.*
 *.private*
-
+*.DS_Store
+.DS_Store
 .backup
