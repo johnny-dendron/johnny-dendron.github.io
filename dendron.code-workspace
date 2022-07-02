@@ -6,6 +6,11 @@
     }
   ],
   "settings": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
     "dendron.rootDir": ".",
     // "dendron.markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
     "files.autoSave": "onFocusChange",
@@ -24,10 +29,12 @@
     "markdownShortcuts.icons.citations": false,
     "markdownShortcuts.icons.strikethrough": false,
     "cSpell.words": [
+      "abrahamic",
       "backlink",
       "backlinks",
       "Ballotpedia",
       "Cleatus",
+      "Comitatus",
       "Dendron",
       "Depositiontally",
       "Emerick",

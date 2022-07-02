@@ -1,7 +1,7 @@
 ---
 id: r29cc6u6gcuru3kjtv3kmk3
 title: Part 2
-desc: ""
+desc: ''
 updated: 1655769779235
 created: 1655756780649
 ---
@@ -18,9 +18,9 @@ created: 1655756780649
 
 | #   | In          | Color  | Name                                                                                          | Note |
 | --- | ----------- | ------ | --------------------------------------------------------------------------------------------- | ---- | --- |
-| 1   | 01:03:01:08 | Cream  | [[politics.conservative.pub.zero-hedge]]                                                      |      |     |
+| 1   | 01:03:01:08 | Cream  | [[world.countries.us.politics.conservative.pub.zero-hedge]]                                                      |      |     |
 | 2   | 01:03:11:09 | Blue   | I'm Finished                                                                                  |      |
-| 3   | 01:03:56:11 | Red    | Lies About Endorsing [[politics.conservative.pub.zero-hedge]]                                 |      |
+| 3   | 01:03:56:11 | Red    | Lies About Endorsing [[world.countries.us.politics.conservative.pub.zero-hedge]]                                 |      |
 | 4   | 01:05:35:23 | Red    | Endorsement Definition Here                                                                   |      |
 | 5   | 01:05:52:17 | Red    | Marker 5                                                                                      |      |
 | 6   | 01:06:06:22 | Cream  | Blue Screens                                                                                  |      |

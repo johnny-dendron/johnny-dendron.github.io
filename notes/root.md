@@ -2,7 +2,7 @@
 id: wihur1ez0bdn2td7eyuzehg
 title: Jeremy's Dendron
 desc: Jeremy's Drendron
-updated: 1656458499740
+updated: 1656780624521
 created: 1655335546902
 ---
 
@@ -10,24 +10,9 @@ https://www.youtube.com/watch?v=A2ceblXTBBc
 
 ## In Progress
 
-![[Roe Vs Wade|world.countries.us.politics.journal.2022.06.25.rov-v-wade]]
+![[world.countries.us.world.countries.us.politics.journal.2022.06.25.rov-v-wade#the-day-the-music-died:#ladies-first]]
 
-### In Progress Tasks
-
-![[In Progress Tasks|in-progress-tasks]]
-
-## Overall Goals
-
-- [x] Prettier Table Fix for Abortion
-- [x] State Template
-- [ ] Get date time entry down.
-- [ ] Write a Style Guide
-- [ ] Pre Publish Organization
-- [ ] Publish?
-- [ ] Schema and Template for movies.great-ones
-- [ ] All todo's should have a \#Inbox Tag
-- [ ] Involve Schema and Templates
-- [ ] Sketch Dendron for Everyone
+![[Task|task#Inbox:#completed]]
 
 ## Shortcuts
 

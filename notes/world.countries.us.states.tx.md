@@ -29,16 +29,16 @@ created: 1656261408679
     - ##### **Governor:** Kay Ivey (R)
     - ##### **Lieutenant Governor:** Will Ainsworth (R)
   - #### **Senators**:
-    - ##### [[world.countries.us.states.al.politics.politicians.senators.placeholder]]
+    - ##### [[world.countries.us.states.al.world.countries.us.politics.politicians.senators.placeholder]]
       - > ###### #Republican #Senators
-    - ##### [[world.countries.us.states.al.politics.politicians.senators.placeholder]]
+    - ##### [[world.countries.us.states.al.world.countries.us.politics.politicians.senators.placeholder]]
       - > ###### #Republican #Senators
 
 #### **Representatives**:
 
 | Office                        | Name                                                                  | Party                    | Assumed Office  | Term Ends       |
 | ----------------------------- | --------------------------------------------------------------------- | ------------------------ | --------------- | --------------- |
-| U.S. House Alabama District 1 | [[world.countries.us.states.al.politics.politicians.reps.jerry-carl]] | #Republican or #Democrat | January 3, 2021 | January 3, 2023 |
+| U.S. House Alabama District 1 | [[world.countries.us.states.al.world.countries.us.politics.politicians.reps.jerry-carl]] | #Republican or #Democrat | January 3, 2021 | January 3, 2023 |
 
 ---
 

@@ -6,4 +6,4 @@ updated: 1656268169497
 created: 1656268169497
 ---
 
-![[Aoc|world.countries.us.states.ny.politics.politicians.reps.aoc]]
+![[world.countries.us.states.ny.world.countries.us.politics.politicians.reps.aoc]]
