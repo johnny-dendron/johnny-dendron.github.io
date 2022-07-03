@@ -1,8 +1,8 @@
 ---
 id: tz85igkfdmdbz72ku540ait
-title: Alex Jones
+title: Cases
 desc: ""
-updated: 1655776855582
+updated: 1656854455153
 created: 1655774737263
 ---
 
@@ -24,3 +24,7 @@ created: 1655774737263
 ## Lafferty v. Jones Opinion
 
 [[file:\\C:\Users\jeremy\Documents\MyDendron\notes\assets\2021-sc20327.pdf]]
+
+[[https://www.documentcloud.org/documents/21074089-lewis-judgment]]
+
+![](/assets/images/2022-07-03-08-20-35.png)

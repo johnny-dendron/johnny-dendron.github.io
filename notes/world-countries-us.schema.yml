@@ -8,9 +8,21 @@ schemas:
       - pattern: countries
         title: Country Code
         children:
-          - pattern: us
+          - pattern: "us"
             children:
-              - pattern: states
+              - pattern: politics
+                children:
+                  - pattern: conservative
+                    children:
+                      - pattern: extremists
+                        children:
+                          - pattern: groups
+                            children:
+                              - pattern: "*"
+                                template:
+                                  id: templates.test-template
+                                  type: note
+              - pattern: "states"
                 title: US State
                 children:
                   - pattern: "[a-z][a-z]"

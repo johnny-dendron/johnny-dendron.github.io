@@ -9,7 +9,7 @@
     "editor.quickSuggestions": {
       "other": true,
       "comments": false,
-      "strings": false
+      "strings": true
     },
     "dendron.rootDir": ".",
     // "dendron.markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
@@ -42,7 +42,8 @@
       "jebediah",
       "Keymap",
       "Outliner",
-      "Quicktime"
+      "Quicktime",
+      "SPLC"
     ]
   },
   "extensions": {

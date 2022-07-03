@@ -1,8 +1,8 @@
 ---
 id: 7674kz0338h5ktki0tvkgcy
 title: Alex Jones
-desc: ''
-updated: 1656715005729
+desc: ""
+updated: 1656793782581
 created: 1655573767499
 ---
 
@@ -16,8 +16,8 @@ created: 1655573767499
 
 ## Connections (Tags of Associates)
 
-#Donald-Trump
-#Roger-Stone
+#DonaldTrump
+#RogerStone
 
 ## Tags
 

@@ -2,9 +2,11 @@
 id: cfhtw3xn7rg3n4yboc4pa1u
 title: Resolve
 desc: ""
-updated: 1655660742852
+updated: 1656858807880
 created: 1655508938452
 ---
+
+#Software-WeponsOfChoice
 
 ## Biography
 
