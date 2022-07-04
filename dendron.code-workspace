@@ -70,7 +70,9 @@
       "ms-python.python",
       "ms-vscode-remote.remote-wsl",
       "rust-lang.rust-analyzer",
-      "redhat.vscode-yaml"
+      "redhat.vscode-yaml",
+      "willxing.wiki-link",
+      "rioj7.command-variable"
     ],
     "unwantedRecommendations": [
       "dendron.dendron-markdown-links",

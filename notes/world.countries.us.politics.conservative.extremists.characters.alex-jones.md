@@ -2,7 +2,7 @@
 id: 7674kz0338h5ktki0tvkgcy
 title: Alex Jones
 desc: ""
-updated: 1656793782581
+updated: 1656902052114
 created: 1655573767499
 ---
 
@@ -21,4 +21,6 @@ created: 1655573767499
 
 ## Tags
 
-#AlexJones, #InfoWars
+#AlexJones, #InfoWars #OathKeepers
+
+Sunday July 03, 2022 - 09:33::47

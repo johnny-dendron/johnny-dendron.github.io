@@ -2,7 +2,7 @@
 id: twyyu9hlh31shdlw7kbssps
 title: Richard C Shelby
 desc: ''
-updated: 1656266999023
+updated: 1656883527467
 created: 1656249386955
 ---
 
@@ -15,7 +15,7 @@ created: 1656249386955
 #US-Senators, #AL, #Republicans #UpForElection2022
 
 - 304 Russell Senate Office Building
-- Washington DC 20510
+- [Washington DC](https://en.wikipedia.org/wiki/Washington,_D.C.) 20510
 - (202) 224-5744
 - https://www.shelby.senate.gov/public/
   - https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby
