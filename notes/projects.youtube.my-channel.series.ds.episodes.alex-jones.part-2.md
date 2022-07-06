@@ -2,7 +2,7 @@
 id: r29cc6u6gcuru3kjtv3kmk3
 title: Part 2
 desc: ""
-updated: 1656872895417
+updated: 1657148252783
 created: 1655756780649
 ---
 
@@ -20,6 +20,23 @@ created: 1655756780649
 ![](/assets/images/2022-07-03-13-13-16.png)
 ![](/assets/images/2022-07-03-13-13-30.png)
 ![](/assets/images/2022-07-03-13-28-12.png)
+
+## Chapters
+
+00:00 Intro
+01:10 Zero Hedge
+05:59 Blue Screens
+11:14 CNN & Blue Screens
+17:42 Vegas Shooting
+20:45 Sources: InfoWars Policy
+21:52 Sources: Internet (4Chan...)
+25:36 Jones Firsts Hears of The Heslin Suit
+26:30 LAWYER FIGHT!
+28:49 Audience Interactions
+33:07 What Question?
+33:49 Jones Finances
+36:13 Do You Know?
+38:02 Naked Alex
 
 > ## **Markers:**
 
